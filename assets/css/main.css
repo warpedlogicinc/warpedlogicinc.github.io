@@ -674,6 +674,18 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
+			
+		.image.fit2 {
+			display: block;
+			margin: auto;
+			width: 50%;
+			height: 50%;
+			padding: 10px;
+		}
+
+			.image.fit2 img {
+				width: 100%;
+			}
 
 		.image.main {
 			display: block;
